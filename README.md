@@ -1,1 +1,1 @@
-# workshop-git
+# Workshop GIT eGov
