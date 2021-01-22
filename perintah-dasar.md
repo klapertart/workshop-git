@@ -28,7 +28,7 @@
 
 >git log //menampilkan detail log
 >
->git log -- oneline //
+>git log -- oneline //menampilkan log dalam satu baris
 
 **6. Melihat perubahan di history commit.**
 
@@ -48,4 +48,4 @@
 
 **10. Membatalkan perubahan di area Staging.**
 
-> git restore - - staged [file]
+> git restore -- staged [file]
